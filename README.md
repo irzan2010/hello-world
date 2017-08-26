@@ -1,2 +1,3 @@
 # hello-world
-Hello World repository for learning GitHub.
+Hello World!
+This is a branch from `master`, that I called `readme-edits`
